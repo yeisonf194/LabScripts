@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    max-width: 3000px;
+}
+.section{
+    width: 90%;
+    margin:20px auto;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Cinzel', serif;
+    color:#ba2737;
+    text-align: center;
+}
+tt{
+    align-content: center;
+    color:black;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:black;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif; 
+}
